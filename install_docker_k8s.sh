@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "installing docker"
-echo test of the new branch!
+echo this is the change what i am talking about!
 apt-get update
 apt-get install -y \
     apt-transport-https \
